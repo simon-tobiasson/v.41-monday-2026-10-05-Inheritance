@@ -1,0 +1,25 @@
+[
+  { 
+    "Id": 1,
+    "Text": "Köpa kaffe",
+    "Done": false
+  },
+
+  { 
+    "Id": 2,
+    "Text": "Köpa kaka",
+    "Done": false
+  },
+
+  { 
+    "Id": 3,
+    "Text": "Brygg kaffe",
+    "Done": false
+  },
+
+  { 
+    "Id": 4,
+    "Text": "Drick kaffe",
+    "Done": false
+  }
+]
